@@ -1,0 +1,9 @@
+C:\Users\neruf\source\repos\PBan\PBan\bin\Debug\netcoreapp3.1\PBan.deps.json
+C:\Users\neruf\source\repos\PBan\PBan\bin\Debug\netcoreapp3.1\PBan.dll
+C:\Users\neruf\source\repos\PBan\PBan\obj\Debug\netcoreapp3.1\PBan.csprojAssemblyReference.cache
+C:\Users\neruf\source\repos\PBan\PBan\obj\Debug\netcoreapp3.1\PBan.AssemblyInfoInputs.cache
+C:\Users\neruf\source\repos\PBan\PBan\obj\Debug\netcoreapp3.1\PBan.AssemblyInfo.cs
+C:\Users\neruf\source\repos\PBan\PBan\bin\Debug\netcoreapp3.1\PBan.pdb
+C:\Users\neruf\source\repos\PBan\PBan\obj\Debug\netcoreapp3.1\PBan.csproj.CoreCompileInputs.cache
+C:\Users\neruf\source\repos\PBan\PBan\obj\Debug\netcoreapp3.1\PBan.dll
+C:\Users\neruf\source\repos\PBan\PBan\obj\Debug\netcoreapp3.1\PBan.pdb

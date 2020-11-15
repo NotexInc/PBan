@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <Authors>Fyrax</Authors>
+    <Company>Notex inc.</Company>
+    <Description>Make ban system easily with c# Processor ID</Description>
+    <Copyright>Notex inc</Copyright>
+    <PackageProjectUrl>https://github.com/NotexInc/PBan</PackageProjectUrl>
+    <PackageTags>game, ban, ipban, hwidban</PackageTags>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <RepositoryUrl>https://github.com/NotexInc/PBan</RepositoryUrl>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Management" Version="5.0.0" />
+  </ItemGroup>
+
+</Project>

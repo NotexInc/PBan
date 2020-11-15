@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>PBan</id>
+    <version>1.0.0</version>
+    <authors>Fyrax</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <projectUrl>https://github.com/NotexInc/PBan</projectUrl>
+    <description>Make ban system easily with c# Processor ID</description>
+    <copyright>Notex inc</copyright>
+    <tags>game, ban, ipban, hwidban</tags>
+    <repository url="https://github.com/NotexInc/PBan" />
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1">
+        <dependency id="System.Management" version="5.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\neruf\source\repos\PBan\PBan\bin\Debug\netcoreapp3.1\PBan.dll" target="lib\netcoreapp3.1\PBan.dll" />
+  </files>
+</package>
